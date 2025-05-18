@@ -1,4 +1,4 @@
-import Swal from "sweetalert2";
+// import Swal from "sweetalert2";
 
 // TODO: please change from swal to react hot toast.
 export const errorAlert = (message) => {
